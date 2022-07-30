@@ -55,8 +55,8 @@ a:hover {
 }
 
 .middle-container {
-  margin: 100px 0;
-  margin-down:0;
+  margin: 100px 0 0 0;
+  
 }
 
 .bottom-container {
